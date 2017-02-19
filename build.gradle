@@ -1,0 +1,7 @@
+apply from: 'plugin1.gradle'
+apply from: 'plugin2.gradle'
+
+
+test1.shouldRunAfter test2
+
+
