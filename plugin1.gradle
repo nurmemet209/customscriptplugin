@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 
-
->>>>>>> b3fced784d102ae5d3fe19d179d9cc10f73a8685
 task test1(){
     println "this is plugin1"
 }
 
+//dfdsfsdfsd
